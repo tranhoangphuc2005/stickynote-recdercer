@@ -1,0 +1,42 @@
+.ant-btn-icon-only {
+  min-width: 100px;
+}
+
+.ant-btn-icon-only {
+  width: 60px;
+  height: 60px;
+}
+
+.ant-btn-icon-only > * {
+  font-size: 25px;
+}
+
+button.btn-custom {
+  margin: 20px !important;
+}
+
+.content-note {
+  width: 298px;
+  height: 146px;
+}
+
+.ant-card-body {
+  padding: 0;
+}
+
+.ant-card {
+  font-size: 25px;
+}
+
+.header-card {
+  display: flex;
+}
+
+.header-my-note {
+  display: flex;
+  justify-content: space-around;
+}
+
+.label-list {
+  display: flex;
+}
